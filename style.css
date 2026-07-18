@@ -12,3 +12,8 @@ body {
   background-size: cover;
 }
 
+hr {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  height: 4px;
+}
