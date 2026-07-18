@@ -17,3 +17,8 @@ hr {
   background-color: #FFFFFF;
   height: 4px;
 }
+
+button {
+  background: none;
+  border: none;
+}
