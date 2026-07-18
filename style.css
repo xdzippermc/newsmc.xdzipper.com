@@ -1,0 +1,14 @@
+/* Idk why, but I feel like a comment should be here, so I put a comment here. */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+h1, h2, h3, h4, h5, a, p {
+  font-family: Open Sans;
+  color: #FFFFFF;
+}
+
+body {
+  background-image: url('img/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
