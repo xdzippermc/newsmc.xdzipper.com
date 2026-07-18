@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, a, p {
 
 body {
   background-image: url('img/bg.png');
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -20,4 +21,5 @@ hr {
 button {
   background: none;
   border: none;
+  text-align: left;
 }
